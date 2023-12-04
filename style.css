@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('/descarga.jpeg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #fbf9f9;
+    border-radius: 10px;
+  }
+  
+  #cronometro {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color:#fbf9f9
+  }
+  .botones button {
+    font-size: 16px;
+    margin: 5px;
+    padding: 10px 20px;
+  }
+  
